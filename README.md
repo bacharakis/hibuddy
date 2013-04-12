@@ -1,4 +1,4 @@
-# HiBuddy, say hi to your friends !
+# HiBuddy
 
 HiBuddy provides you a simple way to make bidirectional
 videoconferences with your friends.
@@ -19,7 +19,7 @@ videoconferences with your friends.
   - `npm 1.1.x`
 
 To use your webcam you will need
-[Firefox nightly](http://nightly.mozilla.org/) with the following
+[Firefox aurora](http://aurora.mozilla.org/) with the following
 flags enabled via `about:config`:
 
     media.navigator.enabled: true
@@ -27,7 +27,7 @@ flags enabled via `about:config`:
 
 ### Install the project
 
-    $ git clone https://github.com/tOkeshu/hibuddy.git
+    $ git clone https://github.com/hsgr/hibuddy.git
     $ cd hibuddy
     $ npm install
 
